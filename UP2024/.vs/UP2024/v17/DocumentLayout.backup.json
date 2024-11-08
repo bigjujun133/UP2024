@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UP2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A8498-EDC3-4546-AA0E-941601B8D097}|UP2024\\UP2024.csproj|E:\\UP2024\\up2024\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A8498-EDC3-4546-AA0E-941601B8D097}|UP2024\\UP2024.csproj|solutionrelative:up2024\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A8498-EDC3-4546-AA0E-941601B8D097}|UP2024\\UP2024.csproj|E:\\UP2024\\up2024\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C6A8498-EDC3-4546-AA0E-941601B8D097}|UP2024\\UP2024.csproj|solutionrelative:up2024\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A8498-EDC3-4546-AA0E-941601B8D097}|UP2024\\UP2024.csproj|E:\\UP2024\\up2024\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A8498-EDC3-4546-AA0E-941601B8D097}|UP2024\\UP2024.csproj|solutionrelative:up2024\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A8498-EDC3-4546-AA0E-941601B8D097}|UP2024\\UP2024.csproj|e:\\up2024\\up2024\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C6A8498-EDC3-4546-AA0E-941601B8D097}|UP2024\\UP2024.csproj|solutionrelative:up2024\\formregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A8498-EDC3-4546-AA0E-941601B8D097}|UP2024\\UP2024.csproj|E:\\UP2024\\up2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C6A8498-EDC3-4546-AA0E-941601B8D097}|UP2024\\UP2024.csproj|solutionrelative:up2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C6A8498-EDC3-4546-AA0E-941601B8D097}|UP2024\\UP2024.csproj|e:\\up2024\\up2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C6A8498-EDC3-4546-AA0E-941601B8D097}|UP2024\\UP2024.csproj|solutionrelative:up2024\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{090C5528-B416-4ABC-85BA-329AD3FF4F4F}|TranslationOffice.Tests\\TranslationOffice.Tests.csproj|e:\\up2024\\translationoffice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{090C5528-B416-4ABC-85BA-329AD3FF4F4F}|TranslationOffice.Tests\\TranslationOffice.Tests.csproj|solutionrelative:translationoffice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegister.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\UP2024\\UP2024\\FormRegister.cs",
+              "RelativeDocumentMoniker": "UP2024\\FormRegister.cs",
+              "ToolTip": "E:\\UP2024\\UP2024\\FormRegister.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UP2024\\FormRegister.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:41:41.432Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\UP2024\\UP2024\\Form1.cs",
+              "RelativeDocumentMoniker": "UP2024\\Form1.cs",
+              "ToolTip": "E:\\UP2024\\UP2024\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UP2024\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:41:31.041Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\UP2024\\UP2024\\Form1.cs",
+              "RelativeDocumentMoniker": "UP2024\\Form1.cs",
+              "ToolTip": "E:\\UP2024\\UP2024\\Form1.cs",
+              "RelativeToolTip": "UP2024\\Form1.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAALYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:13:36.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormRegister.cs",
+              "DocumentMoniker": "E:\\UP2024\\UP2024\\FormRegister.cs",
+              "RelativeDocumentMoniker": "UP2024\\FormRegister.cs",
+              "ToolTip": "E:\\UP2024\\UP2024\\FormRegister.cs",
+              "RelativeToolTip": "UP2024\\FormRegister.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:14:25.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "E:\\UP2024\\UP2024\\Form2.cs",
+              "RelativeDocumentMoniker": "UP2024\\Form2.cs",
+              "ToolTip": "E:\\UP2024\\UP2024\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UP2024\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:15:06.75Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "E:\\UP2024\\UP2024\\Form2.cs",
+              "RelativeDocumentMoniker": "UP2024\\Form2.cs",
+              "ToolTip": "E:\\UP2024\\UP2024\\Form2.cs",
+              "RelativeToolTip": "UP2024\\Form2.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAiwFUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:15:11.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\UP2024\\TranslationOffice.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TranslationOffice.Tests\\UnitTest1.cs",
+              "ToolTip": "E:\\UP2024\\TranslationOffice.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "TranslationOffice.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAiwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:35:53.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
